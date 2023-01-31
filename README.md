@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noé Delcroix</h1>
-<h3 align="center">IT student at HE2B - ESI, IT manager at Fox&Cie and Webmaster for Le Concours de Piano Andrée Charlier. I love riding EUC.</h3>
+<h3 align="center">IT student at HE2B - ESI and Webmaster for Le Concours de Piano Andrée Charlier. I love riding EUC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noedelcroix&label=Profile%20views&color=0e75b6&style=flat" alt="noedelcroix" /> </p>
 
